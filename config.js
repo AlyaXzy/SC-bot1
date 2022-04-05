@@ -13,8 +13,8 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.linkGC = ['https://chat.whatsapp.com/IISRCPhVo5jCjzO3Xloh0J', 'https://chat.whatsapp.com/IISRCPhVo5jCjzO3Xloh0J', 'https://chat.whatsapp.com/IISRCPhVo5jCjzO3Xloh0J'] // ganti jadi group lu
-global.owner = ['6285893466306', '6285716813370', '6285893466306'] // Masukan nomot kalian
+global.linkGC = ['https://chat.whatsapp.com/I5kpHaw5SEQEBQQJPrGXd2', 'https://chat.whatsapp.com/I5kpHaw5SEQEBQQJPrGXd2', 'https://chat.whatsapp.com/I5kpHaw5SEQEBQQJPrGXd2'] // ganti jadi group lu
+global.owner = ['6285893466306', '6283863605242', '6285893466306'] // Masukan nomot kalian
 global.mods = ['6285893466306', '6283863605242'] // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -79,7 +79,7 @@ global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fi
 global.eror = '_*Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
-global.watermark = '© LIA BOTZ   🥀' //change the watermark (beberapa harus manual)
+global.watermark = '© ALYA BOT🥀     ?' //change the watermark (beberapa harus manual)
 
 // Ubah saja
 global.image = 'https://telegra.ph/file/19b4b4ce07d87f5a55771.jpg'//thumbnail
